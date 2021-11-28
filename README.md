@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello, my name is Marcio! 👋
+
+My passion lies in open-source and the free sharing of knowledge.
+
+My special interests are 3D printing, electronics, computer graphics, virtual reality and retro-computing.
 
 <!--
 **marciot/marciot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
