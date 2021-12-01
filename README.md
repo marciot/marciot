@@ -1,3 +1,5 @@
+![banner][banner]
+
 # Hi, I'm Marcio! :computer:
 
 My passion lies in open-source and the free sharing of knowledge.
@@ -23,3 +25,4 @@ Here are some ideas to get you started:
 -->
 
 [Instructables]: https://www.instructables.com/member/marciot/instructables/
+[banner]: https://github.com/marciot/marciot/raw/main/images/pi.jpg
