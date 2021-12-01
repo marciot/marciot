@@ -1,12 +1,11 @@
 ![banner][banner]
 
-# Hi, I'm Marcio! :computer:
-
+# Hi, I'm Marcio! :nerd_face::computer: 
 My passion lies in open-source and the free sharing of knowledge.
 
 I'm a software engineer and content creator with a special interest in open-source software and firmware, computer graphics, virtual reality, retro-computing and user interface design for electronics.
 
-## Find me around the web 🌎:
+## Find me on the web 🌎:
 - :mortar_board: My tutorials on [Instructables]
 
 <!--
