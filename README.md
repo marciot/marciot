@@ -1,8 +1,11 @@
-### Hello, my name is Marcio! 👋
+# Hi, I'm Marcio! :computer:
 
 My passion lies in open-source and the free sharing of knowledge.
 
-My special interests are 3D printing, electronics, computer graphics, virtual reality and retro-computing.
+I'm a software engineer and content creator with a special interest in open-source software and firmware, computer graphics, virtual reality, retro-computing and user interface design for electronics.
+
+## Find me around the web 🌎:
+- :mortar_board: My tutorials on [Instructables]
 
 <!--
 **marciot/marciot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +21,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[Instructables]: https://www.instructables.com/member/marciot/instructables/
