@@ -7,6 +7,8 @@ I'm a software engineer and content creator with a special interest in open-sour
 
 ## Find me on the web 🌎:
 - :mortar_board: My tutorials on [Instructables]
+- :camera_flash: DIY photos under Creative Commons licenses on [Flickr]
+- :cinema: Project videos and demos on [YouTube]
 
 <!--
 **marciot/marciot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,4 +26,6 @@ Here are some ideas to get you started:
 -->
 
 [Instructables]: https://www.instructables.com/member/marciot/instructables/
+[Flickr]: https://www.flickr.com/photos/marciot-diy/
+[YouTube]: https://www.youtube.com/c/MarcioT
 [banner]: https://github.com/marciot/marciot/raw/main/images/pi.jpg
